@@ -6,4 +6,4 @@ export default function home () {
       <CurrencyConverter />
     </div>
   )
-}
+}npm

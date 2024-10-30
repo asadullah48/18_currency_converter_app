@@ -1,6 +1,6 @@
 import CurrencyConverter from "@/components/currency-converter";
 
-export default function home () {
+export defaultfunction home () {
   return (
     <div>
       <CurrencyConverter />
